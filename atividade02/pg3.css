@@ -1,0 +1,24 @@
+div{
+    display: inline-block; 
+}
+
+#div01{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    
+}
+
+#div02{
+    background-color: darkolivegreen;
+    padding: 5px;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+}
